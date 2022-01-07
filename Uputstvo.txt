@@ -1,0 +1,2 @@
+U okviru skripte se nalazi dio za scrapeovanje i ciscenje podataka....aa u drugom dijelu je skripta za racunanje broja predavaca.
+Isto je odradjeno i u excelu da bih potvrdio validnost skripte i tacnost podataka.
